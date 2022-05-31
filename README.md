@@ -1,4 +1,4 @@
-# Create BI Publisher Report in PeopleSoft
+# Create BI Publisher Reports in PeopleSoft
 PT3_E025
 
 PeopleTools Tech Tips    

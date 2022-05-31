@@ -6,7 +6,7 @@ Randy Groncki	2022-05-30
 
 At its basic level, BI Publisher allows users to create professional looking reports using PSQuery data in PeopleSoft.
 
-### Web Posting: https://peopletoolstechtips.com/
+### Web Posting: https://peopletoolstechtips.com/create-a-bi-publisher-report-in-peooplesoft/
 
 ### YouTube demo: [https://youtu.be/vmpWmIq-xdE](https://youtu.be/8yUDwDTXGDM)
 
